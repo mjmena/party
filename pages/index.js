@@ -26,8 +26,6 @@ export default function Home() {
         <h1 className="text-6xl font-bold p-12">
           Molly and Marty's Celebrations
         </h1>
-        <h2 className="text-5xl font-bold p-5">-1 Anniversary</h2>
-        <Countdown date="10/9/21" />
 
         <h2 className="text-5xl font-bold p-5">Wedding</h2>
         <Countdown date="10/15/22" />
